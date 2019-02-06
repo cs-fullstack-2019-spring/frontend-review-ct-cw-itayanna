@@ -1,3 +1,6 @@
+### POINTS: 1.0
+### Did not detect CAT and no comments, but great effort overall.
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
